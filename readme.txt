@@ -1,3 +1,6 @@
+
+# vim-spellchecker-configuration-reminder 
+
 <!--- -->
 <!---       dP                dP       dP                                                          dP          -->
 <!---       88                88       88                                                          88          -->
@@ -60,7 +63,6 @@
 <!---  -->
 <!---  -->
 
-# vim-spellchecker-configuration-reminder 
 
 
 # vim-spellchecker-configuration-reminder 
