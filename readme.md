@@ -60,11 +60,8 @@
 <!---  -->
 <!---  -->
 
-# vim-spellchecker-configuration-reminder 
 
 
-
-# vim-spellchecker-configuration-reminder 
 
 ## What it does?
 
