@@ -1,4 +1,4 @@
-<!--
+<!---
        dP                dP       dP                                                          dP          
        88                88       88                                                          88          
        88d888b. .d8888b. 88d888b. 88d888b. .d8888b. .d8888b. .d8888b. .d8888b. .d8888b. .d888b88 .d8888b. 
@@ -52,11 +52,11 @@
                 t          .ifi:::;:;1fft11if;L11LLf1itC8fi   
                    ;  C8LttttCCLttttttttG1ft1f        
                    :         t                             
-                  ;         ;                 Template-name-->    vim-spellchecker-configuration-reminder		 
+                  ;         ;                 Template-name    vim-spellchecker-configuration-reminder		 
                  L        t                 
-               C       t                      	    Author--->	 Lucas_C/llucbrell/hobbescode         
+               C       t                      	    Author	 Lucas_C/llucbrell/hobbescode         
                  8    C                       
-                 ;Ct                          	    License-->    	GNU-license        
+                 ;Ct                          	    License    	GNU-license        
   
   
 -->
