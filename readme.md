@@ -65,11 +65,12 @@
 
 ## What it does?
 
-A reminder of how to install an spanish spellchecker in a gnu-linux machine if it doesn't have one.
+A reminder of how to install spellcheckers in a gnu-linux machine if it doesn't have one.Also used for docker images downloads.
 
 ## Install
 
-Insert the two files in the directories, like the paths here, to set up spanish spell-checking if you don't have it. 
+Insert the two files in the directories, like the paths here, to set up spanish spell-checking if you don't have it. Make the same with other languages.
 
 * /usr/share/vim/vim80/spell/es.utf-8.spl
 * /usr/share/vim/vim80/spell/es.utf-8.sug
+
